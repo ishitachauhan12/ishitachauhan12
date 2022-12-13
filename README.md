@@ -1,8 +1,9 @@
+![Banner][banner-img]
 <h1 align="center">Hi 👋, I'm Ishita Chauhan</h1>
 <h3 align="center">MERN Stack Web Developer and Competitive Programmer</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **my problem-solving skills**<br><br>- 🌱 I’m currently learning ** React Native and Blockchain**<br><br>- 👯 I’m looking to collaborate on **some interesting projects according to my skillset.**<br><br>- 🤝 I’m looking for help with **exploring the open-source space.**<br><br>- 💬 Ask me about **MERN STACK**<br><br>- 📫 How to reach me **chauhanishita5356@gmail.com**
+<br>- 🔭 I’m currently working on **my problem-solving skills**<br><br>- 🌱 I’m currently learning ** React Native and Blockchain**<br><br>- 👯 I’m looking to collaborate on **some interesting projects according to my skillset.**<br><br>- 🤝 I’m looking for help with **exploring the open-source space.**<br><br>- 💬 Ask me about **MERN STACK**<br><br>- 📫 How to reach me **chauhanishita5356@gmail.com**
 
 
 ## 🌐 Socials:
@@ -19,3 +20,5 @@
 [![](https://visitcount.itsvg.in/api?id=ishitachauhan12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[banner-img]: https://github.com/ishitachauhan12/ishitachauhan12/blob/main/profile%20banner.png
