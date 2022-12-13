@@ -3,7 +3,7 @@
 <h3 align="center">MERN Stack Web Developer and Competitive Programmer</h3>
 
 # 💫 About Me:
-<br>- 🔭 I’m currently working on **my problem-solving skills**<br><br>- 🌱 I’m currently learning ** React Native and Blockchain**<br><br>- 👯 I’m looking to collaborate on **some interesting projects according to my skillset.**<br><br>- 🤝 I’m looking for help with **exploring the open-source space.**<br><br>- 💬 Ask me about **MERN STACK**<br><br>- 📫 How to reach me **chauhanishita5356@gmail.com**
+<br>- 🔭 I’m currently working on **my problem-solving skills**<br><br>- 🌱 I’m currently learning **React Native and Blockchain** <br><br>- 👯 I’m looking to collaborate on **some interesting projects according to my skillset.**<br><br>- 🤝 I’m looking for help with **exploring the open-source space.**<br><br>- 💬 Ask me about **MERN STACK**<br><br>- 📫 How to reach me **chauhanishita5356@gmail.com**
 
 
 ## 🌐 Socials:
